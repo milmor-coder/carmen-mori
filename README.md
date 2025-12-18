@@ -1,11 +1,29 @@
-<div align="center">
+# EventMaster Manager
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Sistema de gestión integral para eventos, catering y producción.
 
-  <h1>Built with AI Studio</h2>
+## Características
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Registro de Pedidos:** Gestión de clientes, tipos de eventos y fechas.
+- **Producción:** Desglose de materiales y control de insumos.
+- **Control de Calidad (QC):** Listas de verificación para asegurar la calidad antes de la entrega.
+- **Logística:** Gestión de envíos y evidencia de entrega.
+- **Reportes:** Generación de PDFs para impresión.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tecnologías
 
-</div>
+- React + Vite
+- Tailwind CSS
+- Firebase (Firestore & Auth)
+
+## Instalación
+
+1. Clona el repositorio.
+2. Instala dependencias:
+   ```bash
+   npm install
+   ```
+3. Ejecuta el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
